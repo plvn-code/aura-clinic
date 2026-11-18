@@ -24,4 +24,4 @@ _Обновлено: 2026-11-18._
 ## Дальше
 
 1. Показать клиенту, собрать ответы.
-2. GitHub-репозиторий + Vercel (спросить пользователя), домен, `NEXT_PUBLIC_SITE_URL`, `NEXT_PUBLIC_ALLOW_INDEXING=true` при запуске.
+2. Vercel (спросить пользователя; GitHub уже есть — plvn-code/aura-clinic), домен, `NEXT_PUBLIC_SITE_URL`, `NEXT_PUBLIC_ALLOW_INDEXING=true` при запуске.

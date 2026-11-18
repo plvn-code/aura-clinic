@@ -7,6 +7,8 @@
 
 Сначала читай `docs/STATUS.md`.
 
+GitHub: github.com/plvn-code/aura-clinic (branch `main`) — после завершённых задач commit + push. Vercel пока нет — сначала спросить пользователя.
+
 ## Команды
 
 ```bash
